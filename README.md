@@ -1,1 +1,125 @@
-# enhansome-mantine
+# Awesome Mantine with stars
+
+[![](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](http://awesome.es)
+
+[Mantine](https://mantine.dev) is a fully featured React components library.
+
+This project contains a curated list of awesome mantine documentations, libraries and resources.
+
+## Contents
+
+1. [Official Links](#official-links)
+2. [Libraries](#libraries)
+3. [Boilerplates](#boilerplates)
+4. [Showcase](#showcase)
+   * [Open Source](#open-source)
+   * [Non Open Source](#non-open-source)
+5. [Companies and Products Using Mantine](#companies-and-products-using-mantine)
+6. [Miscellaneous](#miscellaneous)
+7. [Videos](#videos)
+
+## Official Links
+
+* **[Mantine](https://mantine.dev)** - Official website
+* **[Mantine UI](https://ui.mantine.dev/)** - Official samples
+
+## Libraries
+
+* [Mantine ContextMenu](https://icflorescu.github.io/mantine-contextmenu/) - The context menu for your enhanced Mantine applications
+* [Mantine Composite Filters](https://dvlprroshan.github.io/mantine-composite-filters/) - A powerful, flexible composite filters component for Mantine with support for multiple filter types, presets, history, and advanced customization
+* [Mantine Data Grid](https://kuechlin.github.io/mantine-data-grid/) - Another yet DataTable Grd in alpha stage
+* [Mantine DataTable](https://icflorescu.github.io/mantine-datatable/) - The table component for your data-rich Mantine applications
+* [AdaptTable](https://orwa-mahmoud.github.io/adapttable/) - Data table rendering native Mantine components with URL-synced state, declarative filters with chips, column management, saved views and opt-in virtualization, on a headless core
+* [Mantine Flagpack](https://mantinedev.github.io/mantine-flagpack/) - 4x3 flags as React components, built of top of flagpack, tree shakable
+* [Mantine Audio](https://gfazioli.github.io/mantine-audio/) - A Mantine-native audio player for React with waveform visualisation, live spectrum analyser, compound API, headless `useAudio` hook, scrubbable timeline with `scrubSound`, multiple-source delivery, `fallbackSrc`, and an `asBackground` preset for ambient hero tracks.
+* [Mantine Border Animate](https://gfazioli.github.io/mantine-border-animate/) - A Mantine component for animated border effects with four variants (beam, glow, gradient, pulse), customizable colors, and full animation control. Ideal for creating eye-catching, dynamically styled UI elements with smooth CSS animations.
+* [Mantine Book](https://gfazioli.github.io/mantine-book/) - A realistic iBooks-style book component for React: stack two-sided pages and turn them by dragging any point of the free edge in any direction, with a pure-DOM reflection fold (`flat`) or a true 3D WebGL curl (`rounded`), hard covers via `withCover`, riffle through multi-page jumps, controlled navigation, and full keyboard accessibility.
+* [Mantine Clock](https://gfazioli.github.io/mantine-clock/) - React Clock components and hooks for Mantine with timezone support, countdown timers, customization options, and real-time updates.
+* [Mantine Compare](https://gfazioli.github.io/mantine-compare/) - Mantine Compare is a responsive, accessible React container for side‑by‑side content, letting users reveal differences with a draggable, hover, or fixed split and support for vertical, horizontal, or diagonal dividers.
+* [Mantine Depth Select](https://gfazioli.github.io/mantine-depth-select/) - A 3D stack select component inspired by macOS Time Machine for React applications built with Mantine. Navigate through stacked cards with perspective transforms and smooth transitions.
+* [Mantine Json Tree](https://gfazioli.github.io/mantine-json-tree/) - A Mantine extension component that renders interactive JSON trees with syntax highlighting, collapsible nodes, copy-to-clipboard, and configurable expansion depth.
+* [Mantine Flip](https://gfazioli.github.io/mantine-flip/) - A Mantine component that flips the content of the component when hovered over.
+* [Mantine List View Table](https://gfazioli.github.io/mantine-list-view-table/) - A Mantine component adds a Finder-style List View to the Mantine Table, allowing for column reordering and resizing.
+* [Mantine Led](https://gfazioli.github.io/mantine-led/) - A highly customizable LED indicator component for React applications built with Mantine. Provides visual feedback for status indicators with support for colors, sizes, animations, and controlled states
+* [Mantine Lens Select](https://gfazioli.github.io/mantine-lens-select/) - A fisheye/lens magnification select component for React built with Mantine. Supports count mode, min/max/step range, macOS Dock-like magnification, and compound components.
+* [Mantine Marquee](https://gfazioli.github.io/mantine-marquee) - A Mantine component that allows you to create a marquee effect with a list of elements.
+* [Mantine Mask](https://gfazioli.github.io/mantine-mask/) - A Mantine component that applies a cursor‑follow or static spotlight using CSS masks, revealing content inside the spotlight and softly fading the outside.
+* [Mantine Onboarding Tour](https://gfazioli.github.io/mantine-onboarding-tour/) - A Mantine component enables you to create a onboarding-tour effect using overlays, popovers, and onboarding tours, which enhances element visibility and interactivity.
+* [Mantine Parallax](https://gfazioli.github.io/mantine-parallax/) - A Mantine component that allows you to create the famous Apple TV parallax effect
+* [Mantine Picker](https://gfazioli.github.io/mantine-picker/) - A Mantine component that allows you to create a picker effect with a list of elements
+* [Mantine QRCode](https://gfazioli.github.io/mantine-qr-code/) - A highly customizable QR Code component for React built with Mantine. Custom dot/corner styles, image overlay, SVG/PNG download hook, and full Styles API.
+* [Mantine React Table](https://www.mantine-react-table.com/) - A fully featured Mantine V5 implementation of TanStack React Table V8
+* [Mantine Reflection](https://gfazioli.github.io/mantine-reflection/) - A Mantine component that adds a reflection effect to its children.
+* [Mantine Rings Progress](https://gfazioli.github.io/mantine-rings-progress/) - A Mantine component that replicates the progress rings of Apple Watch.
+* [Mantine Select Stepper](https://gfazioli.github.io/mantine-select-stepper) - Allows users to navigate through a list of options using increment and decrement buttons, providing an intuitive alternative to traditional dropdown selects for cycling through predefined values
+* [Mantine Scene](https://gfazioli.github.io/mantine-scene/) - A composable decorative background system for Mantine with gradients, particles, noise, and interactive effects.
+* [Mantine Spinner](https://gfazioli.github.io/mantine-spinner/) - A Mantine React component for an enhanced loading state.
+* [Mantine Scheduler](https://github.com/jadamita/mantine-scheduler) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-16 - A powerful and flexible React package that allows you to easily integrate scheduling functionality into your Mantine-based applications.
+* [Mantine Split Pane](https://gfazioli.github.io/mantine-split-pane/) - A Mantine component that manages split panes allows users to divide and resize content areas within a layout efficiently
+* [Mantine Text Animate](https://gfazioli.github.io/mantine-text-animate/) - A Mantine component that allows you to animate text with various effects
+* [Mantine Video](https://gfazioli.github.io/mantine-video/) - A Mantine-native video player for React with compound API, headless `useVideo` hook, four variants, Picture-in-Picture, fullscreen, captions, live timeline scrubbing, and an `asBackground` mode for hero / section backgrounds.
+* [Mantine Window](https://gfazioli.github.io/mantine-window/) - A Mantine extension component that renders draggable, resizable floating windows with persistent state, customizable boundaries, collapsible content, and flexible control over position, size, and interaction modes
+
+## Boilerplates
+
+* [mantinedev/next-page-template](https://github.com/mantinedev/next-pages-template) ⭐ 509 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-09 - Mantine + Next.js pages router template
+* [ship](https://github.com/paralect/ship) ⭐ 430 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-05 - A toolkit for makers to ship better products faster 🚀
+* [mantinedev/next-app-template](https://github.com/mantinedev/next-app-template) ⭐ 369 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-09 - Mantine + Next.js app router template (7.0+)
+* [mantinedev/vite-template](https://github.com/mantinedev/vite-template) ⭐ 230 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-09 - Mantine + Vite template
+* [mantinedev/remix-template](https://github.com/mantinedev/remix-template) ⚠️ Archived - Remix + Mantine template
+* [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-05 - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
+* [mantine-tanstack-start-template](https://github.com/icflorescu/mantine-tanstack-start-template/) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-17 - The easiest way to initialize a new project with Mantine and [TanStack Start](https://tanstack.com/start)
+* [mantinedev/gatsby-template](https://github.com/mantinedev/gatsby-template) ⚠️ Archived -  Mantine + Gatsby.js template
+* [mantinedev/redwood-template](https://github.com/mantinedev/redwood-template) ⚠️ Archived - Mantine + RedwoodJS template
+* [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-05 - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
+* [Blitzship](https://blitz-ship.com/) - The code boilerplate for launching your SaaS on AWS.
+* [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
+
+## Showcase
+
+### Open source
+
+* [homarr](https://github.com/ajnart/homarr) ⚠️ Archived - A simple, yet powerful dashboard for your server
+* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,719 | 🐛 21 | 🌐 TypeScript | 📅 2026-06-01 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+* [ryot](https://github.com/ignisda/ryot) ⭐ 3,533 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-09 - A self hosted platform for tracking various facets of your life - media, fitness etc
+* [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) ⭐ 386 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-29 - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
+* [moonlit](https://github.com/bgwastu/moonlit) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-07 - React music player with customizable experience
+* [KamousAI](https://github.com/Ali-Hussein-dev/KamousAI) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-29 - Language Learning Tools, uplevel your language skills with AI
+* [docmost](https://docmost.com/) - An open-source alternative to Confluence and Notion.
+* [local-weather](https://localwx.vercel.app/) - A weather app using Next.js, Mantine, Edge API Routes, and the OpenWeatherMap and Google Maps API's
+* [Mantine Extensions](https://mantine-extensions.vercel.app/) - Hub of extensions designed to enhance the functionality and aesthetics of the Mantine UI library
+* [MantineHub](https://mantinehub.com/) - A tool to easily add modern, pre-configured themes (inspired by Shadcn) to your Mantine projects
+* [Mantine Tweaker](https://mantine-tweaker.pages.dev/) - A mantine theme tweaker
+* [Titanium](https://www.titanium.dev/) - Landing page blocks using Mantine
+
+### Non open source
+
+* [ahead.hiv.gov](https://ahead.hiv.gov/) - a government site aiming to provide easy access to Ending the HIV Epidemic data to the public.
+* [Birthdai](https://birthdai.app) - Create birthday song with personal musical style.
+* [Converting](https://converting.to/) - A web service to file conversions
+* [daily.place](https://daily.place/) - Track your daily tasks for free
+* [PPResume](http://ppresume.com/) - A LaTeX based resume builder
+* [Valla](https://www.valla.app/) - A mac (electron) app for reading epub files.
+* [Vouchley](https://www.vouchley.com/) - The review platform for freelancers
+* [Workout](https://workout.lol/) - The easiest way to create a workout routine
+* [Inspotype](https://inspotype.com?ref=awesome-mantine) - Create new brands in a blink
+* [InstaClock](https://instaclock.app/) - a time tracking app specifically designed for individuals
+
+## Companies and Products Using Mantine
+
+* [EasyWP](https://easywp.com) - Managed WordPress in minutes
+* [WP Bones](https://wpbones.com) - WP Bones allows for WordPress plugins with Laravel-like features
+
+### Miscellaneous
+
+* [react-data-fetching](https://github.com/KevinVandy/react-data-fetching) ⭐ 552 | 🐛 1 | 🌐 TypeScript | 📅 2025-09-30 - A repository to showcase different ways to fetch data in React.
+
+## Videos
+
+* [Mantine UI crash course](https://www.youtube.com/watch?v=U9MaICpcNRI) - A crash course on mantine v6
+* [Mantine UI V6 Course](https://www.youtube.com/playlist?list=PLxt4i7QVE68-iimjALLoOIMzY7Tg0lEaY) - Tutorial on Mantine v6
+* [Mantine UI V7 Course](https://www.youtube.com/watch?v=EMoKmShoM_U\&list=PLxt4i7QVE688fQGmZzWt_cpKbi5phODkE) - Tutorial on Mantine V7
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
