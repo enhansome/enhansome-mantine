@@ -165,7 +165,7 @@
             "last_commit": "2026-06-01T23:11:15Z",
             "owner": "ajnart",
             "repo": "homarr",
-            "stars": 7215
+            "stars": 7213
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-06-01T15:10:21Z",
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3719
+            "stars": 3720
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-09T12:49:00Z",
             "owner": "IgnisDa",
             "repo": "ryot",
-            "stars": 3533
+            "stars": 3534
           }
         },
         {
@@ -243,7 +243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:02:03.167Z",
+    "last_updated": "2026-08-13T17:31:34.116Z",
     "original_repository": "xiaohanyu/awesome-mantine",
     "original_repository_sha": "fbbc3fd7a421698283c194f256f52570c524d1e7",
     "enhanced_repository": "enhansome/enhansome-mantine",
