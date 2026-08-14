@@ -56,7 +56,7 @@
             "last_commit": "2026-08-09T07:03:15Z",
             "owner": "mantinedev",
             "repo": "vite-template",
-            "stars": 230
+            "stars": 231
           }
         },
         {
@@ -179,7 +179,7 @@
             "last_commit": "2026-06-01T15:10:21Z",
             "owner": "lyc8503",
             "repo": "UptimeFlare",
-            "stars": 3720
+            "stars": 3722
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-08-09T12:49:00Z",
             "owner": "IgnisDa",
             "repo": "ryot",
-            "stars": 3534
+            "stars": 3535
           }
         },
         {
@@ -243,7 +243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T17:31:34.116Z",
+    "last_updated": "2026-08-14T17:30:59.385Z",
     "original_repository": "xiaohanyu/awesome-mantine",
     "original_repository_sha": "fbbc3fd7a421698283c194f256f52570c524d1e7",
     "enhanced_repository": "enhansome/enhansome-mantine",
