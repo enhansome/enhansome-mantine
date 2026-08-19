@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 379689146,
             "language": "TypeScript",
             "last_commit": "2026-08-09T07:03:13Z",
             "owner": "mantinedev",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106518101,
             "language": "TypeScript",
             "last_commit": "2026-06-05T11:07:42Z",
             "owner": "paralect",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 646364882,
             "language": "TypeScript",
             "last_commit": "2026-08-16T04:28:52Z",
             "owner": "mantinedev",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 497596833,
             "language": "TypeScript",
             "last_commit": "2026-08-16T05:43:29Z",
             "owner": "mantinedev",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 497590172,
             "language": "TypeScript",
             "last_commit": "2025-01-19T09:54:54Z",
             "owner": "mantinedev",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 929481286,
             "language": "TypeScript",
             "last_commit": "2026-08-05T10:02:48Z",
             "owner": "gfazioli",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 944191850,
             "language": "TypeScript",
             "last_commit": "2025-06-17T10:22:40Z",
             "owner": "icflorescu",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 411320373,
             "language": "TypeScript",
             "last_commit": "2026-06-10T13:37:00Z",
             "owner": "mantinedev",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 646698938,
             "language": "TypeScript",
             "last_commit": "2026-06-10T13:36:51Z",
             "owner": "mantinedev",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1258353478,
             "language": "TypeScript",
             "last_commit": "2026-08-05T12:12:33Z",
             "owner": "gfazioli",
@@ -147,104 +157,113 @@
       "title": "Boilerplates"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Showcase"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "homarr",
-          "description": "A simple, yet powerful dashboard for your server",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-06-01T23:11:15Z",
-            "owner": "ajnart",
-            "repo": "homarr",
-            "stars": 7208
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UptimeFlare",
-          "description": "Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-01T15:10:21Z",
-            "owner": "lyc8503",
-            "repo": "UptimeFlare",
-            "stars": 3727
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ryot",
-          "description": "A self hosted platform for tracking various facets of your life - media, fitness etc",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-16T11:59:10Z",
-            "owner": "IgnisDa",
-            "repo": "ryot",
-            "stars": 3550
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mantine-analytics-dashboard",
-          "description": "A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-29T10:04:05Z",
-            "owner": "design-sparx",
-            "repo": "mantine-analytics-dashboard",
-            "stars": 386
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "moonlit",
-          "description": "React music player with customizable experience",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-07T12:05:55Z",
-            "owner": "bgwastu",
-            "repo": "moonlit",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KamousAI",
-          "description": "Language Learning Tools, uplevel your language skills with AI",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-05-29T15:46:02Z",
-            "owner": "alibey-10",
-            "repo": "KamousAI",
-            "stars": 22
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "homarr",
+              "description": "A simple, yet powerful dashboard for your server",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 485134435,
+                "language": "TypeScript",
+                "last_commit": "2026-06-01T23:11:15Z",
+                "owner": "ajnart",
+                "repo": "homarr",
+                "stars": 7208
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UptimeFlare",
+              "description": "Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 704810343,
+                "language": "TypeScript",
+                "last_commit": "2026-06-01T15:10:21Z",
+                "owner": "lyc8503",
+                "repo": "UptimeFlare",
+                "stars": 3727
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ryot",
+              "description": "A self hosted platform for tracking various facets of your life - media, fitness etc",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623085657,
+                "language": "TypeScript",
+                "last_commit": "2026-08-16T11:59:10Z",
+                "owner": "IgnisDa",
+                "repo": "ryot",
+                "stars": 3552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mantine-analytics-dashboard",
+              "description": "A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 680488510,
+                "language": "TypeScript",
+                "last_commit": "2026-03-29T10:04:05Z",
+                "owner": "design-sparx",
+                "repo": "mantine-analytics-dashboard",
+                "stars": 386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "moonlit",
+              "description": "React music player with customizable experience",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 685863015,
+                "language": "TypeScript",
+                "last_commit": "2026-08-07T12:05:55Z",
+                "owner": "bgwastu",
+                "repo": "moonlit",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KamousAI",
+              "description": "Language Learning Tools, uplevel your language skills with AI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624599491,
+                "language": "TypeScript",
+                "last_commit": "2025-05-29T15:46:02Z",
+                "owner": "alibey-10",
+                "repo": "KamousAI",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open source"
         }
       ],
-      "title": "Open source"
+      "title": "Showcase"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:59:30.995Z",
+    "last_updated": "2026-08-19T12:40:47.409Z",
     "original_repository": "xiaohanyu/awesome-mantine",
+    "original_repository_id": 792602636,
     "original_repository_sha": "fbbc3fd7a421698283c194f256f52570c524d1e7",
     "enhanced_repository": "enhansome/enhansome-mantine",
     "enhanced_repository_description": null,
