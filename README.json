@@ -188,7 +188,7 @@
                 "last_commit": "2026-06-01T15:10:21Z",
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3726
+                "stars": 3730
               }
             },
             {
@@ -200,10 +200,10 @@
                 "archived": false,
                 "id": 623085657,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T11:59:10Z",
+                "last_commit": "2026-08-19T19:04:24Z",
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3553
+                "stars": 3554
               }
             },
             {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:57:26.638Z",
+    "last_updated": "2026-08-20T17:02:37.413Z",
     "original_repository": "xiaohanyu/awesome-mantine",
     "original_repository_id": 792602636,
     "original_repository_sha": "fbbc3fd7a421698283c194f256f52570c524d1e7",
