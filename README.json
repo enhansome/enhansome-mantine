@@ -60,7 +60,7 @@
             "last_commit": "2026-08-16T05:43:29Z",
             "owner": "mantinedev",
             "repo": "vite-template",
-            "stars": 231
+            "stars": 232
           }
         },
         {
@@ -173,7 +173,7 @@
                 "last_commit": "2026-06-01T23:11:15Z",
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7209
+                "stars": 7210
               }
             },
             {
@@ -200,10 +200,10 @@
                 "archived": false,
                 "id": 623085657,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T19:04:24Z",
+                "last_commit": "2026-08-21T15:18:43Z",
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3554
+                "stars": 3556
               }
             },
             {
@@ -218,7 +218,7 @@
                 "last_commit": "2026-03-29T10:04:05Z",
                 "owner": "design-sparx",
                 "repo": "mantine-analytics-dashboard",
-                "stars": 386
+                "stars": 387
               }
             },
             {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:02:37.413Z",
+    "last_updated": "2026-08-21T17:02:48.656Z",
     "original_repository": "xiaohanyu/awesome-mantine",
     "original_repository_id": 792602636,
     "original_repository_sha": "fbbc3fd7a421698283c194f256f52570c524d1e7",
