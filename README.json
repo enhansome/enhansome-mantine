@@ -42,7 +42,7 @@
             "archived": false,
             "id": 646364882,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T04:28:52Z",
+            "last_commit": "2026-08-23T05:53:00Z",
             "owner": "mantinedev",
             "repo": "next-app-template",
             "stars": 369
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 497596833,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T05:43:29Z",
+            "last_commit": "2026-08-23T09:17:25Z",
             "owner": "mantinedev",
             "repo": "vite-template",
             "stars": 232
@@ -188,7 +188,7 @@
                 "last_commit": "2026-06-01T15:10:21Z",
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3730
+                "stars": 3731
               }
             },
             {
@@ -200,10 +200,10 @@
                 "archived": false,
                 "id": 623085657,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T15:18:43Z",
+                "last_commit": "2026-08-22T18:44:15Z",
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3556
+                "stars": 3560
               }
             },
             {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:52:59.062Z",
+    "last_updated": "2026-08-23T16:54:16.409Z",
     "original_repository": "xiaohanyu/awesome-mantine",
     "original_repository_id": 792602636,
     "original_repository_sha": "fbbc3fd7a421698283c194f256f52570c524d1e7",
