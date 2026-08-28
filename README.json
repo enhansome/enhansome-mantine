@@ -45,7 +45,7 @@
             "last_commit": "2026-08-23T05:53:00Z",
             "owner": "mantinedev",
             "repo": "next-app-template",
-            "stars": 370
+            "stars": 371
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-23T09:17:25Z",
             "owner": "mantinedev",
             "repo": "vite-template",
-            "stars": 232
+            "stars": 233
           }
         },
         {
@@ -261,7 +261,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:54:29.671Z",
+    "last_updated": "2026-08-28T01:04:46.019Z",
     "original_repository_info": {
       "archived": false,
       "id": 792602636,
