@@ -341,7 +341,7 @@
                 "open_issues": 21,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3747,
+                "stars": 3748,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -358,7 +358,7 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-23T17:22:06Z",
+                "last_commit": "2026-08-29T19:24:43Z",
                 "open_issues": 69,
                 "owner": "IgnisDa",
                 "repo": "ryot",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:58:26.130Z",
+    "last_updated": "2026-08-29T19:28:37.449Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
