@@ -16,7 +16,8 @@
             "owner": "mantinedev",
             "repo": "next-pages-template",
             "stars": 510
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "paralect",
             "repo": "ship",
             "stars": 431
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "mantinedev",
             "repo": "next-app-template",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mantinedev",
             "repo": "vite-template",
             "stars": 233
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mantinedev",
             "repo": "remix-template",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "gfazioli",
             "repo": "next-app-nextra-template",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "icflorescu",
             "repo": "mantine-start",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mantinedev",
             "repo": "gatsby-template",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "mantinedev",
             "repo": "redwood-template",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "gfazioli",
             "repo": "next-app-fumadocs-template",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T00:37:57.519Z"
         }
       ],
       "title": "Boilerplates"
@@ -173,8 +183,9 @@
                 "last_commit": "2026-06-01T23:11:15Z",
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7213
-              }
+                "stars": 7211
+              },
+              "first_seen": "2026-08-29T00:37:57.519Z"
             },
             {
               "node_type": "item",
@@ -188,8 +199,9 @@
                 "last_commit": "2026-06-01T15:10:21Z",
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3746
-              }
+                "stars": 3749
+              },
+              "first_seen": "2026-08-29T00:37:57.519Z"
             },
             {
               "node_type": "item",
@@ -203,8 +215,9 @@
                 "last_commit": "2026-08-23T17:22:06Z",
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3564
-              }
+                "stars": 3567
+              },
+              "first_seen": "2026-08-29T00:37:57.519Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "design-sparx",
                 "repo": "mantine-analytics-dashboard",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-29T00:37:57.519Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "bgwastu",
                 "repo": "moonlit",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:37:57.519Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "alibey-10",
                 "repo": "KamousAI",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:37:57.519Z"
             }
           ],
           "description": null,
@@ -261,7 +277,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:04:46.019Z",
+    "last_updated": "2026-08-29T00:37:57.519Z",
     "original_repository_info": {
       "archived": false,
       "id": 792602636,
