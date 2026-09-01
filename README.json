@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "mantinedev",
             "repo": "next-pages-template",
-            "stars": 510,
+            "stars": 511,
             "topics": [
               "nextjs",
               "react",
@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "paralect",
             "repo": "ship",
-            "stars": 431,
+            "stars": 432,
             "topics": [
               "aws",
               "boilerplate",
@@ -81,7 +81,7 @@
             "open_issues": 9,
             "owner": "mantinedev",
             "repo": "next-app-template",
-            "stars": 371,
+            "stars": 372,
             "topics": [
               "mantine",
               "nextjs",
@@ -153,7 +153,7 @@
             "id": 929481286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-05T10:02:48Z",
+            "last_commit": "2026-09-01T09:02:09Z",
             "open_issues": 0,
             "owner": "gfazioli",
             "repo": "next-app-nextra-template",
@@ -267,7 +267,7 @@
             "id": 1258353478,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-05T12:12:33Z",
+            "last_commit": "2026-09-01T14:50:14Z",
             "open_issues": 1,
             "owner": "gfazioli",
             "repo": "next-app-fumadocs-template",
@@ -341,7 +341,7 @@
                 "open_issues": 21,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3754,
+                "stars": 3755,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -362,7 +362,7 @@
                 "open_issues": 70,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3571,
+                "stars": 3572,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:35:05.082Z",
+    "last_updated": "2026-09-01T19:30:04.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",

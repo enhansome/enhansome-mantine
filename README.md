@@ -62,16 +62,16 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ## Boilerplates
 
-* [mantinedev/next-page-template](https://github.com/mantinedev/next-pages-template) ⭐ 510 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-09 - Mantine + Next.js pages router template
-* [ship](https://github.com/paralect/ship) ⭐ 431 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-05 - A toolkit for makers to ship better products faster 🚀
-* [mantinedev/next-app-template](https://github.com/mantinedev/next-app-template) ⭐ 371 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-30 - Mantine + Next.js app router template (7.0+)
+* [mantinedev/next-page-template](https://github.com/mantinedev/next-pages-template) ⭐ 511 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-09 - Mantine + Next.js pages router template
+* [ship](https://github.com/paralect/ship) ⭐ 432 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-05 - A toolkit for makers to ship better products faster 🚀
+* [mantinedev/next-app-template](https://github.com/mantinedev/next-app-template) ⭐ 372 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-30 - Mantine + Next.js app router template (7.0+)
 * [mantinedev/vite-template](https://github.com/mantinedev/vite-template) ⭐ 233 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-30 - Mantine + Vite template
 * [mantinedev/remix-template](https://github.com/mantinedev/remix-template) ⚠️ Archived - Remix + Mantine template
-* [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-05 - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
+* [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) ⭐ 36 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-01 - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
 * [mantine-tanstack-start-template](https://github.com/icflorescu/mantine-tanstack-start-template/) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-17 - The easiest way to initialize a new project with Mantine and [TanStack Start](https://tanstack.com/start)
 * [mantinedev/gatsby-template](https://github.com/mantinedev/gatsby-template) ⚠️ Archived -  Mantine + Gatsby.js template
 * [mantinedev/redwood-template](https://github.com/mantinedev/redwood-template) ⚠️ Archived - Mantine + RedwoodJS template
-* [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-05 - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
+* [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-01 - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
 * [Blitzship](https://blitz-ship.com/) - The code boilerplate for launching your SaaS on AWS.
 * [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
 
@@ -80,8 +80,8 @@ This project contains a curated list of awesome mantine documentations, librarie
 ### Open source
 
 * [homarr](https://github.com/ajnart/homarr) ⚠️ Archived - A simple, yet powerful dashboard for your server
-* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,754 | 🐛 21 | 🌐 TypeScript | 📅 2026-06-01 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-* [ryot](https://github.com/ignisda/ryot) ⭐ 3,571 | 🐛 70 | 🌐 TypeScript | 📅 2026-08-31 - A self hosted platform for tracking various facets of your life - media, fitness etc
+* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,755 | 🐛 21 | 🌐 TypeScript | 📅 2026-06-01 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+* [ryot](https://github.com/ignisda/ryot) ⭐ 3,572 | 🐛 70 | 🌐 TypeScript | 📅 2026-08-31 - A self hosted platform for tracking various facets of your life - media, fitness etc
 * [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) ⭐ 387 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-29 - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
 * [moonlit](https://github.com/bgwastu/moonlit) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-07 - React music player with customizable experience
 * [KamousAI](https://github.com/Ali-Hussein-dev/KamousAI) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-29 - Language Learning Tools, uplevel your language skills with AI
@@ -122,4 +122,4 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
