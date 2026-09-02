@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "paralect",
             "repo": "ship",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "aws",
               "boilerplate",
@@ -341,7 +341,7 @@
                 "open_issues": 21,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3755,
+                "stars": 3758,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:30:04.239Z",
+    "last_updated": "2026-09-02T19:27:51.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
