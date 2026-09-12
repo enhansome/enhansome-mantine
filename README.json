@@ -19,7 +19,7 @@
             "open_issues": 2,
             "owner": "mantinedev",
             "repo": "next-pages-template",
-            "stars": 511,
+            "stars": 512,
             "topics": [
               "nextjs",
               "react",
@@ -81,7 +81,7 @@
             "open_issues": 9,
             "owner": "mantinedev",
             "repo": "next-app-template",
-            "stars": 372,
+            "stars": 373,
             "topics": [
               "mantine",
               "nextjs",
@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7207,
+                "stars": 7205,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T16:50:53Z",
-                "open_issues": 71,
+                "last_commit": "2026-09-12T17:09:53Z",
+                "open_issues": 70,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3586,
+                "stars": 3588,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:14:19.416Z",
+    "last_updated": "2026-09-12T18:38:35.652Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
