@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7206,
+                "stars": 7207,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -341,7 +341,7 @@
                 "open_issues": 21,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3805,
+                "stars": 3807,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -362,7 +362,7 @@
                 "open_issues": 72,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3592,
+                "stars": 3593,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T20:26:33.308Z",
+    "last_updated": "2026-09-15T19:47:20.567Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
