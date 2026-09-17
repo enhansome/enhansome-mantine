@@ -106,7 +106,7 @@
             "open_issues": 5,
             "owner": "mantinedev",
             "repo": "vite-template",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "mantine",
               "react",
@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7206,
+                "stars": 7205,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -341,7 +341,7 @@
                 "open_issues": 22,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3810,
+                "stars": 3812,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-14T06:23:27Z",
+                "last_commit": "2026-09-17T16:11:03Z",
                 "open_issues": 72,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3596,
+                "stars": 3597,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -389,7 +389,7 @@
                 "open_issues": 1,
                 "owner": "design-sparx",
                 "repo": "mantine-analytics-dashboard",
-                "stars": 387,
+                "stars": 386,
                 "topics": [
                   "admin-dashboard",
                   "apexcharts",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:39:42.170Z",
+    "last_updated": "2026-09-17T19:48:27.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
