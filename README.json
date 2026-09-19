@@ -106,7 +106,7 @@
             "open_issues": 5,
             "owner": "mantinedev",
             "repo": "vite-template",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "mantine",
               "react",
@@ -358,7 +358,7 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T16:11:03Z",
+                "last_commit": "2026-09-19T09:17:20Z",
                 "open_issues": 72,
                 "owner": "IgnisDa",
                 "repo": "ryot",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:07:48.800Z",
+    "last_updated": "2026-09-19T18:46:42.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
