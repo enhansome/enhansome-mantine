@@ -80,9 +80,9 @@ This project contains a curated list of awesome mantine documentations, librarie
 ### Open source
 
 * [homarr](https://github.com/ajnart/homarr) ⚠️ Archived - A simple, yet powerful dashboard for your server
-* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,828 | 🐛 22 | 🌐 TypeScript | 📅 2026-06-01 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-* [ryot](https://github.com/ignisda/ryot) ⭐ 3,606 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-22 - A self hosted platform for tracking various facets of your life - media, fitness etc
-* [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) ⭐ 386 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-29 - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
+* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,829 | 🐛 22 | 🌐 TypeScript | 📅 2026-06-01 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+* [ryot](https://github.com/ignisda/ryot) ⭐ 3,605 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-23 - A self hosted platform for tracking various facets of your life - media, fitness etc
+* [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) ⭐ 387 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-23 - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
 * [moonlit](https://github.com/bgwastu/moonlit) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-20 - React music player with customizable experience
 * [KamousAI](https://github.com/Ali-Hussein-dev/KamousAI) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-29 - Language Learning Tools, uplevel your language skills with AI
 * [docmost](https://docmost.com/) - An open-source alternative to Confluence and Notion.
@@ -122,4 +122,4 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
