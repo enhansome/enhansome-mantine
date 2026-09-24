@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "paralect",
             "repo": "ship",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "aws",
               "boilerplate",
@@ -153,7 +153,7 @@
             "id": 929481286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T06:49:51Z",
+            "last_commit": "2026-09-24T10:53:24Z",
             "open_issues": 0,
             "owner": "gfazioli",
             "repo": "next-app-nextra-template",
@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7204,
+                "stars": 7203,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -341,7 +341,7 @@
                 "open_issues": 22,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3829,
+                "stars": 3830,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T09:32:45Z",
-                "open_issues": 72,
+                "last_commit": "2026-09-24T15:52:26Z",
+                "open_issues": 70,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3605,
+                "stars": 3606,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -385,8 +385,8 @@
                 "id": 680488510,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-23T17:39:21Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-23T20:41:14Z",
+                "open_issues": 1,
                 "owner": "design-sparx",
                 "repo": "mantine-analytics-dashboard",
                 "stars": 387,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T19:46:18.181Z",
+    "last_updated": "2026-09-24T20:04:46.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
