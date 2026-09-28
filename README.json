@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-27T19:19:30Z",
+                "last_commit": "2026-09-28T18:30:23Z",
                 "open_issues": 71,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3613,
+                "stars": 3618,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T19:50:35.209Z",
+    "last_updated": "2026-09-28T22:14:35.963Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
@@ -486,7 +486,7 @@
       "id": 792602636,
       "language": null,
       "license": null,
-      "last_commit": "2026-07-12T02:22:33Z",
+      "last_commit": "2026-09-28T10:54:06Z",
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-mantine",
@@ -499,7 +499,7 @@
         "react"
       ]
     },
-    "original_repository_sha": "fbbc3fd7a421698283c194f256f52570c524d1e7",
+    "original_repository_sha": "be442fbd577724ae68af7aadb1371ef57be7ac6a",
     "enhanced_repository": "enhansome/enhansome-mantine",
     "enhanced_repository_description": null,
     "title": "Awesome Mantine with stars"

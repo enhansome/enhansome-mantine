@@ -81,7 +81,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 * [homarr](https://github.com/ajnart/homarr) ⚠️ Archived - A simple, yet powerful dashboard for your server
 * [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,835 | 🐛 22 | 🌐 TypeScript | 📅 2026-06-01 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-* [ryot](https://github.com/ignisda/ryot) ⭐ 3,613 | 🐛 71 | 🌐 TypeScript | 📅 2026-09-27 - A self hosted platform for tracking various facets of your life - media, fitness etc
+* [ryot](https://github.com/ignisda/ryot) ⭐ 3,618 | 🐛 71 | 🌐 TypeScript | 📅 2026-09-28 - A self hosted platform for tracking various facets of your life - media, fitness etc
 * [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) ⭐ 387 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-23 - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
 * [moonlit](https://github.com/bgwastu/moonlit) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-20 - React music player with customizable experience
 * [KamousAI](https://github.com/Ali-Hussein-dev/KamousAI) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-29 - Language Learning Tools, uplevel your language skills with AI
@@ -104,6 +104,14 @@ This project contains a curated list of awesome mantine documentations, librarie
 * [Workout](https://workout.lol/) - The easiest way to create a workout routine
 * [Inspotype](https://inspotype.com?ref=awesome-mantine) - Create new brands in a blink
 * [InstaClock](https://instaclock.app/) - a time tracking app specifically designed for individuals
+* [Barbados Immigration Form](https://travelform.gov.bb/en/create) - Government arrival immigration form for Barbados
+* [Lancetta](https://lancetta.app/) - Menu-bar quota monitor for Codex and Claude Code on macOS
+* [Lumberjack](https://lumberjack.ilovemeerkats.world/) - Free commitment untangler to help you direct your effort without an account
+* [Minimap Studio](https://minimap.studio/) - Lightweight embeddable maps for the web
+* [Netfox](https://netfox.app/) - macOS network analyzer that explains devices and exposed services in plain English
+* [Overten AI](https://overten.ai/) - Create and edit Word, Excel, and PowerPoint files with AI from a single prompt
+* [PrepDuel](https://prepduel.com/) - Gamified SAT, ACT, and ISEE test prep with solo practice and multiplayer modes
+* [Spruce](https://www.buildwithspruce.com/) - Native desktop app for planning, code, and review with repo-native markdown artifacts
 
 ## Companies and Products Using Mantine
 
@@ -122,4 +130,4 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
