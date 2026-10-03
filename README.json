@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7208,
+                "stars": 7207,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -358,7 +358,7 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T18:00:46Z",
+                "last_commit": "2026-10-03T03:26:05Z",
                 "open_issues": 72,
                 "owner": "IgnisDa",
                 "repo": "ryot",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:53:41.599Z",
+    "last_updated": "2026-10-03T04:54:46.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
