@@ -153,7 +153,7 @@
             "id": 929481286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T11:08:32Z",
+            "last_commit": "2026-10-09T17:26:37Z",
             "open_issues": 0,
             "owner": "gfazioli",
             "repo": "next-app-nextra-template",
@@ -267,7 +267,7 @@
             "id": 1258353478,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T11:09:46Z",
+            "last_commit": "2026-10-09T17:26:48Z",
             "open_issues": 1,
             "owner": "gfazioli",
             "repo": "next-app-fumadocs-template",
@@ -362,7 +362,7 @@
                 "open_issues": 71,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3627,
+                "stars": 3630,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -424,7 +424,7 @@
                 "id": 685863015,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-20T08:32:16Z",
+                "last_commit": "2026-10-09T06:23:14Z",
                 "open_issues": 1,
                 "owner": "bgwastu",
                 "repo": "moonlit",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T21:27:03.866Z",
+    "last_updated": "2026-10-09T21:09:24.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",

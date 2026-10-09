@@ -67,11 +67,11 @@ This project contains a curated list of awesome mantine documentations, librarie
 * [mantinedev/next-app-template](https://github.com/mantinedev/next-app-template) ⭐ 373 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-04 - Mantine + Next.js app router template (7.0+)
 * [mantinedev/vite-template](https://github.com/mantinedev/vite-template) ⭐ 237 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-04 - Mantine + Vite template
 * [mantinedev/remix-template](https://github.com/mantinedev/remix-template) ⚠️ Archived - Remix + Mantine template
-* [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) ⭐ 37 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-05 - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
+* [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) ⭐ 37 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-09 - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
 * [mantine-tanstack-start-template](https://github.com/icflorescu/mantine-tanstack-start-template/) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-17 - The easiest way to initialize a new project with Mantine and [TanStack Start](https://tanstack.com/start)
 * [mantinedev/gatsby-template](https://github.com/mantinedev/gatsby-template) ⚠️ Archived -  Mantine + Gatsby.js template
 * [mantinedev/redwood-template](https://github.com/mantinedev/redwood-template) ⚠️ Archived - Mantine + RedwoodJS template
-* [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-05 - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
+* [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-09 - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
 * [Blitzship](https://blitz-ship.com/) - The code boilerplate for launching your SaaS on AWS.
 * [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
 
@@ -81,9 +81,9 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 * [homarr](https://github.com/ajnart/homarr) ⚠️ Archived - A simple, yet powerful dashboard for your server
 * [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,855 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-07 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-* [ryot](https://github.com/ignisda/ryot) ⭐ 3,627 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-08 - A self hosted platform for tracking various facets of your life - media, fitness etc
+* [ryot](https://github.com/ignisda/ryot) ⭐ 3,630 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-08 - A self hosted platform for tracking various facets of your life - media, fitness etc
 * [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) ⭐ 387 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-05 - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
-* [moonlit](https://github.com/bgwastu/moonlit) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-20 - React music player with customizable experience
+* [moonlit](https://github.com/bgwastu/moonlit) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-09 - React music player with customizable experience
 * [KamousAI](https://github.com/Ali-Hussein-dev/KamousAI) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-29 - Language Learning Tools, uplevel your language skills with AI
 * [docmost](https://docmost.com/) - An open-source alternative to Confluence and Notion.
 * [local-weather](https://localwx.vercel.app/) - A weather app using Next.js, Mantine, Edge API Routes, and the OpenWeatherMap and Google Maps API's
@@ -130,4 +130,4 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
