@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7202,
+                "stars": 7201,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-14T19:12:41Z",
+                "last_commit": "2026-10-16T19:30:13Z",
                 "open_issues": 73,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3640,
+                "stars": 3639,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -385,7 +385,7 @@
                 "id": 680488510,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-12T18:46:53Z",
+                "last_commit": "2026-10-16T10:31:50Z",
                 "open_issues": 2,
                 "owner": "design-sparx",
                 "repo": "mantine-analytics-dashboard",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:59:39.195Z",
+    "last_updated": "2026-10-16T19:39:25.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
