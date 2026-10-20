@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "paralect",
             "repo": "ship",
-            "stars": 435,
+            "stars": 436,
             "topics": [
               "aws",
               "boilerplate",
@@ -267,7 +267,7 @@
             "id": 1258353478,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T08:11:04Z",
+            "last_commit": "2026-10-20T13:44:15Z",
             "open_issues": 2,
             "owner": "gfazioli",
             "repo": "next-app-fumadocs-template",
@@ -338,10 +338,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T12:22:32Z",
-                "open_issues": 26,
+                "open_issues": 28,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3883,
+                "stars": 3886,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -359,10 +359,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-18T19:26:43Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3644,
+                "stars": 3642,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:12:14.848Z",
+    "last_updated": "2026-10-20T20:05:36.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
