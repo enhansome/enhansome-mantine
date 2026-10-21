@@ -337,11 +337,11 @@
                 "id": 704810343,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T12:22:32Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-21T02:28:15Z",
+                "open_issues": 25,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3886,
+                "stars": 3889,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -389,7 +389,7 @@
                 "open_issues": 9,
                 "owner": "design-sparx",
                 "repo": "mantine-analytics-dashboard",
-                "stars": 386,
+                "stars": 387,
                 "topics": [
                   "admin-dashboard",
                   "apexcharts",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:05:36.871Z",
+    "last_updated": "2026-10-21T20:19:17.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
