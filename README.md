@@ -80,8 +80,8 @@ This project contains a curated list of awesome mantine documentations, librarie
 ### Open source
 
 * [homarr](https://github.com/ajnart/homarr) ⚠️ Archived - A simple, yet powerful dashboard for your server
-* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,892 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-21 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-* [ryot](https://github.com/ignisda/ryot) ⭐ 3,645 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-22 - A self hosted platform for tracking various facets of your life - media, fitness etc
+* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,893 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-21 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+* [ryot](https://github.com/ignisda/ryot) ⭐ 3,646 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-23 - A self hosted platform for tracking various facets of your life - media, fitness etc
 * [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) ⭐ 387 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-19 - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
 * [moonlit](https://github.com/bgwastu/moonlit) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-10 - React music player with customizable experience
 * [KamousAI](https://github.com/Ali-Hussein-dev/KamousAI) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-29 - Language Learning Tools, uplevel your language skills with AI
@@ -130,4 +130,4 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
