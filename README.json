@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7202,
+                "stars": 7201,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -341,7 +341,7 @@
                 "open_issues": 25,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3893,
+                "stars": 3897,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-23T19:39:48Z",
-                "open_issues": 72,
+                "last_commit": "2026-10-24T18:49:09Z",
+                "open_issues": 73,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3646,
+                "stars": 3647,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:02:26.027Z",
+    "last_updated": "2026-10-24T18:56:14.938Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
@@ -486,7 +486,7 @@
       "id": 792602636,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-28T10:54:06Z",
+      "last_commit": "2026-10-24T06:34:00Z",
       "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-mantine",
@@ -499,7 +499,7 @@
         "react"
       ]
     },
-    "original_repository_sha": "be442fbd577724ae68af7aadb1371ef57be7ac6a",
+    "original_repository_sha": "2fdb74cdadb3cf13e5d20e96b426aa26ef87b013",
     "enhanced_repository": "enhansome/enhansome-mantine",
     "enhanced_repository_description": null,
     "title": "Awesome Mantine with stars"

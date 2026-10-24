@@ -74,14 +74,15 @@ This project contains a curated list of awesome mantine documentations, librarie
 * [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-22 - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
 * [Blitzship](https://blitz-ship.com/) - The code boilerplate for launching your SaaS on AWS.
 * [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
+* [fumandocs](https://fumandocs.next101.dev) - Create fumadocs website with Mantine as the UI layer.
 
 ## Showcase
 
 ### Open source
 
 * [homarr](https://github.com/ajnart/homarr) ⚠️ Archived - A simple, yet powerful dashboard for your server
-* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,893 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-21 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-* [ryot](https://github.com/ignisda/ryot) ⭐ 3,646 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-23 - A self hosted platform for tracking various facets of your life - media, fitness etc
+* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,897 | 🐛 25 | 🌐 TypeScript | 📅 2026-10-21 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+* [ryot](https://github.com/ignisda/ryot) ⭐ 3,647 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-24 - A self hosted platform for tracking various facets of your life - media, fitness etc
 * [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) ⭐ 387 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-19 - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
 * [moonlit](https://github.com/bgwastu/moonlit) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-10 - React music player with customizable experience
 * [KamousAI](https://github.com/Ali-Hussein-dev/KamousAI) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-29 - Language Learning Tools, uplevel your language skills with AI
@@ -90,6 +91,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 * [Mantine Extensions](https://mantine-extensions.vercel.app/) - Hub of extensions designed to enhance the functionality and aesthetics of the Mantine UI library
 * [MantineHub](https://mantinehub.com/) - A tool to easily add modern, pre-configured themes (inspired by Shadcn) to your Mantine projects
 * [Mantine Tweaker](https://mantine-tweaker.pages.dev/) - A mantine theme tweaker
+* [npmpulase](https://npmpulse.com/) - A free website to check any npm package's download history, every day, back to 2015.
 * [Titanium](https://www.titanium.dev/) - Landing page blocks using Mantine
 
 ### Non open source
@@ -130,4 +132,4 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
