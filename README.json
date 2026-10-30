@@ -338,10 +338,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-21T02:28:15Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3914,
+                "stars": 3913,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T18:00:00Z",
+                "last_commit": "2026-10-30T13:14:09Z",
                 "open_issues": 74,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3648,
+                "stars": 3649,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:21:20.988Z",
+    "last_updated": "2026-10-30T20:59:16.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
