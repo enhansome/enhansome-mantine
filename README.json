@@ -157,7 +157,7 @@
             "open_issues": 0,
             "owner": "gfazioli",
             "repo": "next-app-nextra-template",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "mantine",
               "mantine-ui",
@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7195,
+                "stars": 7193,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3913,
+                "stars": 3916,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T13:14:09Z",
+                "last_commit": "2026-10-31T06:18:38Z",
                 "open_issues": 74,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3649,
+                "stars": 3651,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -385,8 +385,8 @@
                 "id": 680488510,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T21:27:06Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-31T18:05:46Z",
+                "open_issues": 12,
                 "owner": "design-sparx",
                 "repo": "mantine-analytics-dashboard",
                 "stars": 387,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:59:16.174Z",
+    "last_updated": "2026-10-31T20:14:04.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
