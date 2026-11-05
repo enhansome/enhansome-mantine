@@ -62,16 +62,16 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ## Boilerplates
 
-* [mantinedev/next-page-template](https://github.com/mantinedev/next-pages-template) ⭐ 512 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-01 - Mantine + Next.js pages router template
+* [mantinedev/next-page-template](https://github.com/mantinedev/next-pages-template) ⭐ 511 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-01 - Mantine + Next.js pages router template
 * [ship](https://github.com/paralect/ship) ⭐ 437 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-05 - A toolkit for makers to ship better products faster 🚀
 * [mantinedev/next-app-template](https://github.com/mantinedev/next-app-template) ⭐ 375 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-01 - Mantine + Next.js app router template (7.0+)
 * [mantinedev/vite-template](https://github.com/mantinedev/vite-template) ⭐ 238 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-01 - Mantine + Vite template
 * [mantinedev/remix-template](https://github.com/mantinedev/remix-template) ⚠️ Archived - Remix + Mantine template
-* [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) ⭐ 38 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-04 - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
+* [gfazioli/next-app-nextra-template](https://github.com/gfazioli/next-app-nextra-template) ⭐ 38 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-04 - Mantine + Next.js app router + Nextra 4 template (7.0+) + [Live Demo](https://next-app-nextra-template.vercel.app/)
 * [mantine-tanstack-start-template](https://github.com/icflorescu/mantine-tanstack-start-template/) ⭐ 25 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-17 - The easiest way to initialize a new project with Mantine and [TanStack Start](https://tanstack.com/start)
 * [mantinedev/gatsby-template](https://github.com/mantinedev/gatsby-template) ⚠️ Archived -  Mantine + Gatsby.js template
 * [mantinedev/redwood-template](https://github.com/mantinedev/redwood-template) ⚠️ Archived - Mantine + RedwoodJS template
-* [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-04 - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
+* [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-04 - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
 * [Blitzship](https://blitz-ship.com/) - The code boilerplate for launching your SaaS on AWS.
 * [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
 * [fumandocs](https://fumandocs.next101.dev) - Create fumadocs website with Mantine as the UI layer.
@@ -132,4 +132,4 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "mantinedev",
             "repo": "next-pages-template",
-            "stars": 512,
+            "stars": 511,
             "topics": [
               "nextjs",
               "react",
@@ -153,8 +153,8 @@
             "id": 929481286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T22:00:58Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-04T22:05:58Z",
+            "open_issues": 0,
             "owner": "gfazioli",
             "repo": "next-app-nextra-template",
             "stars": 38,
@@ -267,8 +267,8 @@
             "id": 1258353478,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T22:01:03Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-04T22:06:05Z",
+            "open_issues": 1,
             "owner": "gfazioli",
             "repo": "next-app-fumadocs-template",
             "stars": 5,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T22:05:30.333Z",
+    "last_updated": "2026-11-05T22:12:29.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
