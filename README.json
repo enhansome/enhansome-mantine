@@ -341,7 +341,7 @@
                 "open_issues": 26,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3921,
+                "stars": 3925,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T21:43:11.099Z",
+    "last_updated": "2026-11-07T20:26:06.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
