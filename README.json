@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "paralect",
             "repo": "ship",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "aws",
               "boilerplate",
@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7190,
+                "stars": 7191,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T18:24:52Z",
+                "last_commit": "2026-11-10T18:03:25Z",
                 "open_issues": 74,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3660,
+                "stars": 3663,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -389,7 +389,7 @@
                 "open_issues": 12,
                 "owner": "design-sparx",
                 "repo": "mantine-analytics-dashboard",
-                "stars": 387,
+                "stars": 388,
                 "topics": [
                   "admin-dashboard",
                   "apexcharts",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T00:22:12.125Z",
+    "last_updated": "2026-11-10T21:54:26.969Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
