@@ -15,7 +15,7 @@
             "id": 379689146,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T07:13:23Z",
+            "last_commit": "2026-11-11T15:03:19Z",
             "open_issues": 1,
             "owner": "mantinedev",
             "repo": "next-pages-template",
@@ -77,7 +77,7 @@
             "id": 646364882,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T07:13:20Z",
+            "last_commit": "2026-11-11T15:03:00Z",
             "open_issues": 9,
             "owner": "mantinedev",
             "repo": "next-app-template",
@@ -102,7 +102,7 @@
             "id": 497596833,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-09T07:13:05Z",
+            "last_commit": "2026-11-11T15:03:49Z",
             "open_issues": 6,
             "owner": "mantinedev",
             "repo": "vite-template",
@@ -341,7 +341,7 @@
                 "open_issues": 28,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3931,
+                "stars": 3934,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -359,10 +359,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-10T18:03:25Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3663,
+                "stars": 3664,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -424,7 +424,7 @@
                 "id": 685863015,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-04T08:02:05Z",
+                "last_commit": "2026-11-11T05:32:53Z",
                 "open_issues": 1,
                 "owner": "bgwastu",
                 "repo": "moonlit",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:54:26.969Z",
+    "last_updated": "2026-11-11T22:56:40.735Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
