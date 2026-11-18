@@ -153,8 +153,8 @@
             "id": 929481286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T21:09:08Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-18T17:29:31Z",
+            "open_issues": 0,
             "owner": "gfazioli",
             "repo": "next-app-nextra-template",
             "stars": 38,
@@ -263,12 +263,12 @@
           "repo_info": {
             "archived": false,
             "description": "Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind",
-            "homepage": "https://gfazioli.github.io/next-app-fumadocs-template/",
+            "homepage": "https://next-app-fumadocs-template.vercel.app",
             "id": 1258353478,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T21:09:09Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-18T17:29:33Z",
+            "open_issues": 1,
             "owner": "gfazioli",
             "repo": "next-app-fumadocs-template",
             "stars": 5,
@@ -310,7 +310,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7191,
+                "stars": 7190,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -341,7 +341,7 @@
                 "open_issues": 28,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3946,
+                "stars": 3947,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-17T06:25:21Z",
+                "last_commit": "2026-11-18T20:31:07Z",
                 "open_issues": 76,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3671,
+                "stars": 3673,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -389,7 +389,7 @@
                 "open_issues": 12,
                 "owner": "design-sparx",
                 "repo": "mantine-analytics-dashboard",
-                "stars": 388,
+                "stars": 387,
                 "topics": [
                   "admin-dashboard",
                   "apexcharts",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:37:00.605Z",
+    "last_updated": "2026-11-18T23:01:56.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
