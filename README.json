@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "paralect",
             "repo": "ship",
-            "stars": 436,
+            "stars": 437,
             "topics": [
               "aws",
               "boilerplate",
@@ -341,7 +341,7 @@
                 "open_issues": 34,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3951,
+                "stars": 3953,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -358,11 +358,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-21T06:49:45Z",
+                "last_commit": "2026-11-24T06:40:04Z",
                 "open_issues": 70,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3677,
+                "stars": 3675,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:59:44.243Z",
+    "last_updated": "2026-11-25T00:59:43.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
@@ -487,7 +487,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-10-24T06:34:00Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "xiaohanyu",
       "repo": "awesome-mantine",
       "stars": 98,
