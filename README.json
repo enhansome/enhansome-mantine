@@ -44,7 +44,7 @@
             "open_issues": 5,
             "owner": "paralect",
             "repo": "ship",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "aws",
               "boilerplate",
@@ -153,7 +153,7 @@
             "id": 929481286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T10:22:34Z",
+            "last_commit": "2026-11-25T19:32:09Z",
             "open_issues": 0,
             "owner": "gfazioli",
             "repo": "next-app-nextra-template",
@@ -267,7 +267,7 @@
             "id": 1258353478,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-23T10:25:01Z",
+            "last_commit": "2026-11-25T19:32:16Z",
             "open_issues": 0,
             "owner": "gfazioli",
             "repo": "next-app-fumadocs-template",
@@ -285,6 +285,39 @@
             ]
           },
           "first_seen": "2026-08-29T00:37:57.519Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gfazioli/next-app-mantine-docs-template",
+          "description": "Next.js 16 App Router + Mantine 9 docs template on @next/mdx, no docs framework: Mantine-native sidebar, table of contents, Pagefind search and code blocks + Live Demo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Next.js 16 App Router + Mantine 9 docs template on @next/mdx: Mantine-native UI, Pagefind search, no docs framework",
+            "homepage": "https://next-app-mantine-docs-template.vercel.app",
+            "id": 1461763410,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-25T19:32:03Z",
+            "open_issues": 0,
+            "owner": "gfazioli",
+            "repo": "next-app-mantine-docs-template",
+            "stars": 1,
+            "topics": [
+              "documentation",
+              "mantine",
+              "mantine-v9",
+              "mdx",
+              "nextjs",
+              "nextjs16",
+              "pagefind",
+              "react",
+              "shiki",
+              "template",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-11-26T00:36:35.787Z"
         }
       ],
       "title": "Boilerplates"
@@ -310,7 +343,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7189,
+                "stars": 7190,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -341,7 +374,7 @@
                 "open_issues": 34,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3953,
+                "stars": 3954,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -358,11 +391,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-24T06:40:04Z",
+                "last_commit": "2026-11-25T04:02:04Z",
                 "open_issues": 70,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3675,
+                "stars": 3677,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -478,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T00:59:43.654Z",
+    "last_updated": "2026-11-26T00:36:35.787Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
@@ -486,8 +519,8 @@
       "id": 792602636,
       "language": null,
       "license": null,
-      "last_commit": "2026-10-24T06:34:00Z",
-      "open_issues": 1,
+      "last_commit": "2026-11-25T04:27:35Z",
+      "open_issues": 0,
       "owner": "xiaohanyu",
       "repo": "awesome-mantine",
       "stars": 98,
@@ -499,7 +532,7 @@
         "react"
       ]
     },
-    "original_repository_sha": "2fdb74cdadb3cf13e5d20e96b426aa26ef87b013",
+    "original_repository_sha": "381f2fc2ead4690fde38719eeaac7012b8978967",
     "enhanced_repository": "enhansome/enhansome-mantine",
     "enhanced_repository_description": null,
     "title": "Awesome Mantine with stars"
