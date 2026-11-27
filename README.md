@@ -72,7 +72,7 @@ This project contains a curated list of awesome mantine documentations, librarie
 * [mantinedev/gatsby-template](https://github.com/mantinedev/gatsby-template) ⚠️ Archived -  Mantine + Gatsby.js template
 * [mantinedev/redwood-template](https://github.com/mantinedev/redwood-template) ⚠️ Archived - Mantine + RedwoodJS template
 * [gfazioli/next-app-fumadocs-template](https://github.com/gfazioli/next-app-fumadocs-template) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 - Next.js App Router + Mantine + Fumadocs (headless) template — 100% Mantine UI, no Tailwind
-* [gfazioli/next-app-mantine-docs-template](https://github.com/gfazioli/next-app-mantine-docs-template) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-25 - Next.js 16 App Router + Mantine 9 docs template on @next/mdx, no docs framework: Mantine-native sidebar, table of contents, Pagefind search and code blocks + [Live Demo](https://next-app-mantine-docs-template.vercel.app/)
+* [gfazioli/next-app-mantine-docs-template](https://github.com/gfazioli/next-app-mantine-docs-template) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26 - Next.js 16 App Router + Mantine 9 docs template on @next/mdx, no docs framework: Mantine-native sidebar, table of contents, Pagefind search and code blocks + [Live Demo](https://next-app-mantine-docs-template.vercel.app/)
 * [Blitzship](https://blitz-ship.com/) - The code boilerplate for launching your SaaS on AWS.
 * [zauberstack](https://zauberstack.com/) - A React.js SaaS Starter Kit to build your MVP faster
 * [fumandocs](https://fumandocs.next101.dev) - Create fumadocs website with Mantine as the UI layer.
@@ -82,8 +82,8 @@ This project contains a curated list of awesome mantine documentations, librarie
 ### Open source
 
 * [homarr](https://github.com/ajnart/homarr) ⚠️ Archived - A simple, yet powerful dashboard for your server
-* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,954 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-21 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
-* [ryot](https://github.com/ignisda/ryot) ⭐ 3,677 | 🐛 70 | 🌐 TypeScript | 📅 2026-11-25 - A self hosted platform for tracking various facets of your life - media, fitness etc
+* [UptimeFlare](https://github.com/lyc8503/UptimeFlare) ⭐ 3,958 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-21 - Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
+* [ryot](https://github.com/ignisda/ryot) ⭐ 3,678 | 🐛 70 | 🌐 TypeScript | 📅 2026-11-26 - A self hosted platform for tracking various facets of your life - media, fitness etc
 * [mantine-analytics-dashboard](https://github.com/design-sparx/mantine-analytics-dashboard) ⭐ 386 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-17 - A free, open source, Next 14, React 18 admin dashboard template created using Mantine 7
 * [moonlit](https://github.com/bgwastu/moonlit) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-17 - React music player with customizable experience
 * [KamousAI](https://github.com/Ali-Hussein-dev/KamousAI) ⭐ 22 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-29 - Language Learning Tools, uplevel your language skills with AI
@@ -133,4 +133,4 @@ This project contains a curated list of awesome mantine documentations, librarie
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._

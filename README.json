@@ -298,7 +298,7 @@
             "id": 1461763410,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-25T19:32:03Z",
+            "last_commit": "2026-11-26T17:15:10Z",
             "open_issues": 0,
             "owner": "gfazioli",
             "repo": "next-app-mantine-docs-template",
@@ -343,7 +343,7 @@
                 "open_issues": 8,
                 "owner": "ajnart",
                 "repo": "homarr",
-                "stars": 7190,
+                "stars": 7189,
                 "topics": [
                   "dashboard",
                   "docker",
@@ -374,7 +374,7 @@
                 "open_issues": 34,
                 "owner": "lyc8503",
                 "repo": "UptimeFlare",
-                "stars": 3954,
+                "stars": 3958,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:37:57.519Z"
@@ -391,11 +391,11 @@
                 "id": 623085657,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-25T04:02:04Z",
+                "last_commit": "2026-11-26T07:09:30Z",
                 "open_issues": 70,
                 "owner": "IgnisDa",
                 "repo": "ryot",
-                "stars": 3677,
+                "stars": 3678,
                 "topics": [
                   "exercise-tracker",
                   "fitness-tracker",
@@ -511,7 +511,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T00:36:35.787Z",
+    "last_updated": "2026-11-27T00:44:29.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of mantine docs, libs and resources",
